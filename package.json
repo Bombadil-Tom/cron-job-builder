@@ -1,0 +1,34 @@
+{
+  "name": "cron-job-builder",
+  "version": "1.0.0",
+  "description": "React Cron Builder: A versatile npm package offering customizable components for creating cron expressions effortlessly in React applications. Seamlessly integrate cron job creation functionalities into your projects with configurable options for alignment, styling, and component customization. Simplify complex scheduling tasks with intuitive UI elements, empowering developers to efficiently manage time-based events within their applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Cron",
+    "Scheduler",
+    "Scheduling",
+    "Cron",
+    "Expression",
+    "Time",
+    "Management",
+    "React",
+    "Component",
+    "UI",
+    "Library",
+    "Frontend",
+    "JavaScript"
+  ],
+  "dependencies": {
+    "react": "^17.0.2",
+    "prop-types": "^15.7.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  },
+  "author": "Mark Huber",
+  "license": "MIT"
+}
